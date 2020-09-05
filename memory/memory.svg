@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1029.0568"
-     inkscape:cy="-233.76629"
+     inkscape:cx="731.65309"
+     inkscape:cy="153.19399"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -650,15 +650,34 @@
        id="use6487"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g6187"
-       xlink:href="#g6187"
+    <g
+       inkscape:tile-y0="5.4687498e-06"
+       inkscape:tile-x0="0"
+       id="card-back-verb"
        transform="translate(1000,2250)"
-       id="use6489"
-       width="100%"
-       height="100%" />
+       inkscape:label="#use6489"
+       inkscape:export-filename="/home/anthony/Documents/games-templates/memory/dist/card-back-verb.png"
+       inkscape:export-xdpi="75"
+       inkscape:export-ydpi="75">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect9559"
+         width="250"
+         height="250"
+         x="0"
+         y="2432.4331"
+         rx="32.857143"
+         ry="32.857143" />
+      <rect
+         ry="31.996134"
+         rx="31.996134"
+         y="2435.7085"
+         x="3.2755706"
+         height="243.44882"
+         width="243.44882"
+         id="rect9561"
+         style="opacity:1;vector-effect:none;fill:#cd87de;fill-opacity:1;stroke:none;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
     <use
        x="0"
        y="0"
@@ -756,15 +775,34 @@
        id="use6507"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g6187"
-       xlink:href="#g6187"
+    <g
+       inkscape:tile-y0="5.4687498e-06"
+       inkscape:tile-x0="0"
+       id="card-back-pict"
        transform="translate(1250,2250)"
-       id="use6509"
-       width="100%"
-       height="100%" />
+       inkscape:label="#use6509"
+       inkscape:export-filename="/home/anthony/Documents/games-templates/memory/dist/card-back-pict.png"
+       inkscape:export-xdpi="75"
+       inkscape:export-ydpi="75">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect9569"
+         width="250"
+         height="250"
+         x="0"
+         y="2432.4331"
+         rx="32.857143"
+         ry="32.857143" />
+      <rect
+         ry="31.996134"
+         rx="31.996134"
+         y="2435.7085"
+         x="3.2755706"
+         height="243.44882"
+         width="243.44882"
+         id="rect9571"
+         style="opacity:1;vector-effect:none;fill:#5fd3bc;fill-opacity:1;stroke:none;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
     <use
        x="0"
        y="0"
@@ -1620,7 +1658,7 @@
         <polygon
            style="fill:#3f3f3f;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon4-65"
-           points="54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764 55.355,32.3764 "
+           points="55.355,32.3764 54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764 "
            stroke-miterlimit="10" />
         <path
            style="fill:#3f3f3f;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
@@ -1640,7 +1678,7 @@
         <polygon
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon12-97"
-           points="54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764 55.355,32.3764 "
+           points="55.355,32.3764 54.6817,47.2519 55.8358,21.7542 55.9525,19.1777 56.5,7.0833 16.5,7.0833 18.3184,47.2519 17.645,32.3764 "
            stroke-miterlimit="10" />
         <path
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
@@ -1757,12 +1795,12 @@
         <polygon
            style="fill:#8967aa;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon8-5"
-           points="36.6791,31.6198 33.6717,31.6198 29.6463,63.7776 40.696,63.7776 "
+           points="40.696,63.7776 36.6791,31.6198 33.6717,31.6198 29.6463,63.7776 "
            stroke-miterlimit="10" />
         <polygon
            style="fill:#8967aa;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon10-0"
-           points="32.168,28.1411 33.6717,31.6198 36.6791,31.6198 38.1829,28.1411 36.6791,24.6625 33.6717,24.6625 "
+           points="38.1829,28.1411 36.6791,24.6625 33.6717,24.6625 32.168,28.1411 33.6717,31.6198 36.6791,31.6198 "
            stroke-miterlimit="10" />
       </g>
       <g
@@ -1800,12 +1838,12 @@
         <polygon
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon24-9"
-           points="36.6791,31.6198 33.6717,31.6198 29.6463,63.7776 40.696,63.7776 "
+           points="40.696,63.7776 36.6791,31.6198 33.6717,31.6198 29.6463,63.7776 "
            stroke-miterlimit="10" />
         <polygon
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon26-8"
-           points="32.168,28.1411 33.6717,31.6198 36.6791,31.6198 38.1829,28.1411 36.6791,24.6625 33.6717,24.6625 "
+           points="38.1829,28.1411 36.6791,24.6625 33.6717,24.6625 32.168,28.1411 33.6717,31.6198 36.6791,31.6198 "
            stroke-miterlimit="10" />
       </g>
     </g>
@@ -2443,6 +2481,28 @@
          x="374.33484"
          y="2143.9644"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.66666412px;font-family:'Caveat Brush';-inkscape-font-specification:'Caveat Brush, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">wear</tspan></text>
+    <text
+       id="text9567"
+       y="2439.6787"
+       x="1122.8599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'🕷️Noto Color Emoji';-inkscape-font-specification:'🕷️Noto Color Emoji';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;font-family:'Caveat Brush';-inkscape-font-specification:'Caveat Brush, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         y="2439.6787"
+         x="1122.8599"
+         id="tspan9565"
+         sodipodi:role="line">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'🕷️Noto Color Emoji';-inkscape-font-specification:'🕷️Noto Color Emoji';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1372.7217"
+       y="2439.6787"
+       id="text9577"><tspan
+         sodipodi:role="line"
+         id="tspan9575"
+         x="1372.7217"
+         y="2439.6787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;font-family:'Caveat Brush';-inkscape-font-specification:'Caveat Brush, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2574,7 +2634,7 @@
         <polygon
            style="fill:#9b9b9a;stroke:none"
            id="polygon10"
-           points="48.75,46.5833 61.2917,45.98 62.1128,44.9583 61.2561,42.7175 51.4,35.85 40.56,36 40.7961,36.5366 " />
+           points="61.2917,45.98 62.1128,44.9583 61.2561,42.7175 51.4,35.85 40.56,36 40.7961,36.5366 48.75,46.5833 " />
         <path
            style="fill:#d0cfce;stroke:none"
            inkscape:connector-curvature="0"
@@ -3259,7 +3319,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon6"
-           points="11.5175,21.918 11.1352,21.918 11.1352,24.2119 12.4492,22.6831 " />
+           points="12.4492,22.6831 11.5175,21.918 11.1352,21.918 11.1352,24.2119 " />
         <path
            style="fill:#ffffff"
            inkscape:connector-curvature="0"
@@ -3283,7 +3343,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon16"
-           points="28.8545,32.2922 28.8541,32.2935 " />
+           points="28.8541,32.2935 28.8545,32.2922 " />
         <path
            style="fill:#ffffff"
            inkscape:connector-curvature="0"
@@ -3373,7 +3433,7 @@
         <polygon
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
            id="polygon50"
-           points="13.8741,22.5596 5.6109,32.1725 15.7351,26.6968 17.075,39.0288 21.0205,27.7194 27.9435,31.8897 22.4349,22.913 31.889,17.3996 20.276,20.5804 19.2339,9.9071 16.1073,20.0856 5.6109,15.7738 "
+           points="17.075,39.0288 21.0205,27.7194 27.9435,31.8897 22.4349,22.913 31.889,17.3996 20.276,20.5804 19.2339,9.9071 16.1073,20.0856 5.6109,15.7738 13.8741,22.5596 5.6109,32.1725 15.7351,26.6968 "
            stroke-miterlimit="10" />
       </g>
     </g>
@@ -3569,7 +3629,7 @@
         <polygon
            style="fill:#fcea2b;stroke:none"
            id="polygon10-4"
-           points="5.8,45.1 8.9,40.5 12.9,42.1 10.8,45 " />
+           points="10.8,45 5.8,45.1 8.9,40.5 12.9,42.1 " />
       </g>
       <g
          id="hair-3"
@@ -3657,20 +3717,20 @@
           <polygon
              style="fill:#d0cfce"
              id="polygon10-6"
-             points="36.111,42.528 30.13,42.528 36,19.286 36.111,24.224 " />
+             points="36.111,24.224 36.111,42.528 30.13,42.528 36,19.286 " />
           <polygon
              style="fill:#9b9b9a"
              id="polygon12"
-             points="40.931,42.528 36.111,42.528 36.075,20.881 37.143,25.528 " />
+             points="37.143,25.528 40.931,42.528 36.111,42.528 36.075,20.881 " />
         </g>
         <polygon
            style="fill:#d0cfce"
            id="polygon16-8"
-           points="28.583,48.012 28.005,43.899 36.178,43.887 36.178,48.012 " />
+           points="36.178,48.012 28.583,48.012 28.005,43.899 36.178,43.887 " />
         <polygon
            style="fill:#9b9b9a"
            id="polygon18"
-           points="36.178,48.012 36.178,43.935 44.04,43.935 43.031,48.012 " />
+           points="43.031,48.012 36.178,48.012 36.178,43.935 44.04,43.935 " />
       </g>
       <g
          id="line-3"
@@ -3678,7 +3738,7 @@
         <polygon
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="polygon21"
-           points="44.56,43.224 43.519,48.724 28.385,48.724 27.44,43.224 " />
+           points="27.44,43.224 44.56,43.224 43.519,48.724 28.385,48.724 " />
         <rect
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="rect23"
@@ -3909,7 +3969,7 @@
                  id="polyline6"
                  style="fill:#92d3f5" />
               <polygon
-                 points="33.487,42.816 31.703,42.584 24.001,66.24 30.183,66.24 "
+                 points="30.183,66.24 33.487,42.816 31.703,42.584 24.001,66.24 "
                  id="polygon8"
                  style="fill:#92d3f5" />
               <line
@@ -4172,35 +4232,35 @@
             <polygon
                style="fill:#ea5a47"
                id="polygon6-8"
-               points="14.271,50.034 7.866,47.472 7.866,63.893 14.271,63.893 " />
+               points="14.271,63.893 14.271,50.034 7.866,47.472 7.866,63.893 " />
             <polygon
                style="fill:#d22f27"
                id="polygon8-1"
-               points="10.38,49.63 10.38,63.713 13.583,63.713 13.583,50.9 " />
+               points="13.583,50.9 10.38,49.63 10.38,63.713 13.583,63.713 " />
             <polygon
                style="fill:#ea5a47"
                id="polygon10-9"
-               points="30.613,48.78 24.208,50.473 24.208,63.893 30.613,63.893 " />
+               points="30.613,63.893 30.613,48.78 24.208,50.473 24.208,63.893 " />
             <polygon
                style="fill:#d22f27"
                id="polygon12-9"
-               points="27.41,50.111 27.41,64.194 30.613,64.194 30.613,48.78 " />
+               points="30.613,48.78 27.41,50.111 27.41,64.194 30.613,64.194 " />
             <polygon
                style="fill:#ea5a47"
                id="polygon14"
-               points="48.353,36.383 41.948,42.796 41.948,63.935 48.353,63.935 " />
+               points="48.353,63.935 48.353,36.383 41.948,42.796 41.948,63.935 " />
             <polygon
                style="fill:#d22f27"
                id="polygon16-7"
-               points="44.515,40.249 44.515,64.194 47.718,64.194 47.718,37.986 " />
+               points="47.718,37.986 44.515,40.249 44.515,64.194 47.718,64.194 " />
             <polygon
                style="fill:#ea5a47"
                id="polygon18-8"
-               points="64.822,11.896 58.417,22.378 58.417,63.893 64.822,63.893 " />
+               points="64.822,63.893 64.822,11.896 58.417,22.378 58.417,63.893 " />
             <polygon
                style="fill:#d22f27"
                id="polygon20"
-               points="61.62,17.866 61.62,63.358 64.822,63.358 64.822,13.565 " />
+               points="64.822,13.565 61.62,17.866 61.62,63.358 64.822,63.358 " />
           </g>
           <g
              id="line-253">
@@ -4213,15 +4273,15 @@
             <polygon
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                id="polygon25"
-               points="47.718,36.383 41.313,42.796 41.313,63.935 47.718,63.935 " />
+               points="47.718,63.935 47.718,36.383 41.313,42.796 41.313,63.935 " />
             <polygon
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                id="polygon27"
-               points="30.613,48.78 24.208,50.473 24.208,63.893 30.613,63.893 " />
+               points="30.613,63.893 30.613,48.78 24.208,50.473 24.208,63.893 " />
             <polygon
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                id="polygon29"
-               points="13.583,50.034 7.178,47.472 7.178,63.893 13.583,63.893 " />
+               points="13.583,63.893 13.583,50.034 7.178,47.472 7.178,63.893 " />
             <path
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                inkscape:connector-curvature="0"
@@ -4250,7 +4310,7 @@
             <polygon
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
                id="polygon41"
-               points="64.822,11.896 58.417,22.378 58.417,63.893 64.822,63.893 " />
+               points="64.822,63.893 64.822,11.896 58.417,22.378 58.417,63.893 " />
           </g>
         </g>
       </g>
@@ -4417,11 +4477,11 @@
         <polygon
            style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
            id="polygon29-9"
-           points="35.1,38.8 35,38.7 34,38.7 34.3,41.1 " />
+           points="34.3,41.1 35.1,38.8 35,38.7 34,38.7 " />
         <polygon
            style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
            id="polygon31"
-           points="36.9,38.8 36.8,38.7 37.9,38.7 37.7,41.1 " />
+           points="37.7,41.1 36.9,38.8 36.8,38.7 37.9,38.7 " />
         <path
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round"
            inkscape:connector-curvature="0"
@@ -4844,7 +4904,7 @@
         <polygon
            style="fill:#9b9b9a"
            id="polygon4-6"
-           points="17,46 9,57 63,57 56.4,49.1 53,40 45,34 40,34 36,22 40,34 36,22 32,24 24.2,22.1 19,34 " />
+           points="63,57 56.4,49.1 53,40 45,34 40,34 36,22 40,34 36,22 32,24 24.2,22.1 19,34 17,46 9,57 " />
         <path
            style="fill:#ea5a47"
            inkscape:connector-curvature="0"
